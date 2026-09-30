@@ -1,6 +1,6 @@
 {
-  "name": "PedalPay",
-  "short_name": "PedalPay",
+  "name": "EarnRide",
+  "short_name": "EarnRide",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
